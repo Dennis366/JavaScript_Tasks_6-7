@@ -1,6 +1,6 @@
 # JavaScript DOM Tasks – Tasks 6 & 7
 
-This repository contains **Tasks 6 and 7** from the Modern JavaScript Tutorial assignment, demonstrating basic **DOM manipulation** using plain JavaScript.
+This repository contains **Tasks 6 and 7** from the JavaScript assignments, demonstrating basic **DOM manipulation** using plain JavaScript.
 
 ## Tasks Overview
 
@@ -56,7 +56,4 @@ Inserted Row4
 3. For Task 7, click the `"Insert row"` button to add rows dynamically.  
 4. Open the browser console (F12) to view log messages confirming actions.
 
-## Notes
-- Both tasks use **plain JavaScript** and simple DOM manipulation.  
-- Task 7 uses inline `onclick` for simplicity.  
-- No external libraries or frameworks are required.
+
